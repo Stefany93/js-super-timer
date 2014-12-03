@@ -5,14 +5,14 @@
  */
 // Append 0 in front of numbers less than 10
 	function prefix_zero(number){
-						if(number < 10){
-							number = "0" + number;
-						}
-						return number;
-					}
+		if(number < 10){
+			number = "0" + number;
+		}
+			return number;
+	}
 // Our Unix timestamp in seconds.
 // Current value is Thu, 29 Dec 2016 17:31:18 +0000	
-timestamp = 1483032678;
+		var timestamp = 1483032678;
 // Our countdown_timer function.
 	function countdown_timer(){
 // Get the ID of the element you want the timer to appear.
