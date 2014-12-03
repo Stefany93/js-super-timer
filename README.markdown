@@ -5,5 +5,5 @@ It works with an UNIX timestamp, i.e. you give the *timestamp* variable UNIX tim
 # Very important
 
  Beware, only assign the *timestamp* a value that is in seconds, not miliseconds.   
- Useful website for generating a UNIX timestamp value is - 
+ Useful website for generating a UNIX timestamp value is - http://www.timestampgenerator.com/
  
