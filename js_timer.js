@@ -1,5 +1,5 @@
 /*
-	Script written by: Stefany Newman
+	Script written by: Stefany Dyulgerova
 	www.dyulgerova.info
 	stefany.dyulgerova@gmail.com
  */
